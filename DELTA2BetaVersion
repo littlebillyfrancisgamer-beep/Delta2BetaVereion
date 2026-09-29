@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/littlebillyfrancisgamer-beep/Delta2-BetaVersion2/refs/heads/main/Delta2BetaVersion"))()
